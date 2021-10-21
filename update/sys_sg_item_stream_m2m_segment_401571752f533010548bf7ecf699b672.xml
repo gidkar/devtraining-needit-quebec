@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_segment">
+    <sys_sg_item_stream_m2m_segment action="INSERT_OR_UPDATE">
+        <item_stream display_value="NeedIt Requests Next Quarter Item Stream">c01571752f533010548bf7ecf699b66c</item_stream>
+        <segment display_value="NeedIt Requests Next Quarter Item Stream Segment">3f05fd352f533010548bf7ecf699b6f2</segment>
+        <sys_class_name>sys_sg_item_stream_m2m_segment</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-10-20 07:56:47</sys_created_on>
+        <sys_id>401571752f533010548bf7ecf699b672</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_segment_401571752f533010548bf7ecf699b672</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-10-20 07:56:47</sys_updated_on>
+    </sys_sg_item_stream_m2m_segment>
+</record_update>
